@@ -3,6 +3,8 @@ The following instructions detail how to install ROOT 6 with an external Anacond
 
 From a fresh Ubuntu 18 install, download the following programs.
 
+_PCNAME_ : Refers to the name given to the PC on installation of your operating system. (ex: /home/AustinPC)
+
 [Cern Root 6: ](https://root.cern.ch/content/release-60806) || Download the Source
 
 [Anaconda (SciPy):](https://www.anaconda.com/download/#linux) || 64-Bit (x86) Installer
