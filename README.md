@@ -47,9 +47,9 @@ The following steps detail how root was installed on the SOC computer Columbia u
 | ------------- | ------------- |
 | gedit .bashrc  | Opens the bashrc in gedit  |
 | #ROOT
-export PATH=”/home/creamop/root6/bin:$PATH”
-export LD_LIBRARY_PATH=”home/creamop/root6/lib:$LD_LIBRARY_PATH”  
-export PYTHONPATH=”/home/creamop/root6/lib:$PYTHONPATH”
+export PATH=”/home/_PCNAME_/root6/bin:$PATH”
+export LD_LIBRARY_PATH=”home/_PCNAME_/root6/lib:$LD_LIBRARY_PATH”  
+export PYTHONPATH=”/home/_PCNAME_/root6/lib:$PYTHONPATH”
   | Exports root, its library, and the pythonpath  |
 | | Save bashrc file |
 
